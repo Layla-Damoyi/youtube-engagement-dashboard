@@ -1,7 +1,8 @@
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
-
+import matplotlib.pyplot as plt
+plt.style.use("dark_background")
 # -----------------------------
 # PAGE CONFIG + DARK STYLE
 # -----------------------------
